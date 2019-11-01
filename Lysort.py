@@ -1,6 +1,6 @@
 # encoding: utf-8
 # module_sort
-# by bookist 1.0
+# by bookist 0.1.0
 # no doc
 import time
 import random
